@@ -1,2 +1,2 @@
 # ESCI407
-Tectonics
+Repository for the Global Tectonics course at Victoria University of Wellington.
