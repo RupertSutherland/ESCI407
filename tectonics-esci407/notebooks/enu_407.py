@@ -5,9 +5,6 @@
 """
 import numpy as np
 import matplotlib.pyplot as plt
-from matplotlib import rc
-rc("pdf", fonttype=42)
-rc("font",size=10,family='Arial')
 
 __author__ = "Rupert Sutherland"
 
